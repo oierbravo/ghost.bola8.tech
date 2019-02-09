@@ -1,0 +1,33 @@
+{
+  "url": "http://ghost.bola8.tech",
+  "server": {
+    "port": 2368,
+    "host": "0.0.0.0"
+  },
+  "database": {
+    "client": "mysql",
+    "connection": {
+      "host": "localhost",
+      "user": "ghost",
+      "password": "ghost",
+      "database": "ghost"
+    }
+  },
+  "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "systemd",
+  "paths": {
+    "contentPath": "/home/oier/ghost.bola8.tech/content"
+  },
+  "bootstrap-socket": {
+    "port": 8000,
+    "host": "localhost"
+  }
+}

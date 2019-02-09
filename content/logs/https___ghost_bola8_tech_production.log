@@ -1,0 +1,45 @@
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: posts ","time":"2019-02-09T11:37:33.005Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: users ","time":"2019-02-09T11:37:33.090Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: posts_authors ","time":"2019-02-09T11:37:33.222Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: roles ","time":"2019-02-09T11:37:33.415Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: roles_users ","time":"2019-02-09T11:37:33.496Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: permissions ","time":"2019-02-09T11:37:33.557Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: permissions_users ","time":"2019-02-09T11:37:34.094Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: permissions_roles ","time":"2019-02-09T11:37:34.195Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: permissions_apps ","time":"2019-02-09T11:37:34.258Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: settings ","time":"2019-02-09T11:37:34.340Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: tags ","time":"2019-02-09T11:37:34.444Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: posts_tags ","time":"2019-02-09T11:37:34.566Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: apps ","time":"2019-02-09T11:37:34.841Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: app_settings ","time":"2019-02-09T11:37:34.952Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: app_fields ","time":"2019-02-09T11:37:35.102Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: clients ","time":"2019-02-09T11:37:35.220Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2019-02-09T11:37:35.335Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: accesstokens ","time":"2019-02-09T11:37:35.462Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: refreshtokens ","time":"2019-02-09T11:37:35.693Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: subscribers ","time":"2019-02-09T11:37:35.901Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: invites ","time":"2019-02-09T11:37:36.008Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: brute ","time":"2019-02-09T11:37:36.109Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: webhooks ","time":"2019-02-09T11:37:36.125Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: sessions ","time":"2019-02-09T11:37:36.197Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: integrations ","time":"2019-02-09T11:37:36.298Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: api_keys ","time":"2019-02-09T11:37:36.433Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: mobiledoc_revisions ","time":"2019-02-09T11:37:36.524Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: members ","time":"2019-02-09T11:37:36.601Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Creating table: actions ","time":"2019-02-09T11:37:36.683Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: Tag ","time":"2019-02-09T11:37:36.759Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: Client ","time":"2019-02-09T11:37:36.794Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: Role ","time":"2019-02-09T11:37:36.815Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: Permission ","time":"2019-02-09T11:37:36.851Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: User ","time":"2019-02-09T11:37:37.304Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Model: Post ","time":"2019-02-09T11:37:38.035Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Relation: Role to Permission ","time":"2019-02-09T11:37:38.377Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Relation: Post to Tag ","time":"2019-02-09T11:37:38.746Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Relation: User to Role ","time":"2019-02-09T11:37:38.805Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":40,"msg":"Theme's file locales/en.json not found. ","time":"2019-02-09T11:37:39.870Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Ghost is running in production... ","time":"2019-02-09T11:37:40.373Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Your blog is now available on https://ghost.bola8.tech/ ","time":"2019-02-09T11:37:40.374Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Ctrl+C to shut down ","time":"2019-02-09T11:37:40.375Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Ghost boot 8.803s ","time":"2019-02-09T11:37:40.393Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":30,"msg":"Bootstrap client was closed. ","time":"2019-02-09T11:37:40.400Z","v":0}
+{"name":"Log","hostname":"vps647333","pid":11087,"level":40,"msg":"Ghost has shut down ","time":"2019-02-09T11:45:26.604Z","v":0}

@@ -1,0 +1,14 @@
+[Unit]
+Description=Ghost systemd service for blog: ghost-bola8-tech
+Documentation=https://docs.ghost.org
+
+[Service]
+Type=simple
+WorkingDirectory=/home/oier/ghost.bola8.tech
+User=999
+Environment="NODE_ENV=production"
+ExecStart=/home/oier/.nvm/versions/node/v10.15.1/bin/node /home/oier/.nvm/versions/node/v10.15.1/bin/ghost run
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
